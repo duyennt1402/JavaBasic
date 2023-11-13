@@ -57,4 +57,8 @@ public class gitPractise {
 		}
 
 	}
+	/*
+	 * 10.	[While] Cho 1 chuỗi “Hello World”, Viết hàm tìm kí tự “r” trong chuỗi, nếu tìm thấy kí tự đầu tiên in ra chỉ số của “r”, nếu không, in ra “không tìm thấy”.
+	 */
+	
 }
